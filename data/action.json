@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Community kitchen" }, "geometry": { "type": "Point", "coordinates": [11.2520, 43.7700] } },
+{ "type": "Feature", "properties": { "name": "Volunteer hub" }, "geometry": { "type": "Point", "coordinates": [11.2600, 43.7680] } },
+{ "type": "Feature", "properties": { "name": "Food distribution point" }, "geometry": { "type": "Point", "coordinates": [11.2475, 43.7720] } }
+]
+}
